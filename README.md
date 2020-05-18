@@ -3,7 +3,7 @@
 ## Table of Contents
 
 * [Instructions](#instructions)
-* * [PROJECT_DETAILS](#PROJECT_DETAILS)
+* [PROJECT_DETAILS](#PROJECT_DETAILS)
 
 ## Instructions
 
